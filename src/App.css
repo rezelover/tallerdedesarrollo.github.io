@@ -78,12 +78,6 @@
   border-color: var(--stroke);
 }
 
-.btn-ghost {
-  color: var(--ink-strong);
-  border-color: var(--stroke);
-  background: rgba(255, 255, 255, 0.6);
-}
-
 main,
 footer {
   width: min(1180px, calc(100% - 48px));
